@@ -1,3 +1,11 @@
+
+#Program: camper_age_input
+#Author: Terry Pope
+#Last date modified: 06/03/2020
+
+#The purpose of this program is to accept input of age and convert it to months,
+#then output the results.
+
 def convert_to_months(years):
     return years*12
 
